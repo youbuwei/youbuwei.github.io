@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youbuwei.github.io</id>
     <title>有不为</title>
-    <updated>2019-10-15T14:27:20.788Z</updated>
+    <updated>2019-10-15T17:09:43.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youbuwei.github.io"/>
     <link rel="self" href="https://youbuwei.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://youbuwei.github.io/images/avatar.png</logo>
     <icon>https://youbuwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 有不为</rights>
+    <entry>
+        <title type="html"><![CDATA[[转载]员外家的烧饼]]></title>
+        <id>https://youbuwei.github.io/post/shaobing</id>
+        <link href="https://youbuwei.github.io/post/shaobing">
+        </link>
+        <updated>2019-10-15T16:45:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
+<p>员外家的烧饼是我爷爷打的，我爷爷打的烧饼我爹天天都吃，从吃第一口，我爹就知道这烧饼徒有虚名，不如矮个子家打的好吃。矮个子打的烧饼又香又脆，最好是趁热吃，皮如瓜干瓤如肉，就着菜，喝着汤，一头汗，满口香。我爷爷打的烧饼，则不同，涩口胀胃，味同嚼蜡。但他夹烧饼时熟练的手法，以及唤吆喝时中气十足的嗓门，显示出了他一代宗师的风范，人们管他叫“烧饼艺术家”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
+<p>员外家的烧饼是我爷爷打的，我爷爷打的烧饼我爹天天都吃，从吃第一口，我爹就知道这烧饼徒有虚名，不如矮个子家打的好吃。矮个子打的烧饼又香又脆，最好是趁热吃，皮如瓜干瓤如肉，就着菜，喝着汤，一头汗，满口香。我爷爷打的烧饼，则不同，涩口胀胃，味同嚼蜡。但他夹烧饼时熟练的手法，以及唤吆喝时中气十足的嗓门，显示出了他一代宗师的风范，人们管他叫“烧饼艺术家”。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://youbuwei.github.io/post/hello-gridea</id>
@@ -21,25 +34,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
