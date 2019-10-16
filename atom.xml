@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://youbuwei.github.io</id>
+    <id>https://doeot.io</id>
     <title>有不为</title>
-    <updated>2019-10-16T15:22:47.226Z</updated>
+    <updated>2019-10-16T15:32:34.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://youbuwei.github.io"/>
-    <link rel="self" href="https://youbuwei.github.io/atom.xml"/>
+    <link rel="alternate" href="https://doeot.io"/>
+    <link rel="self" href="https://doeot.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://youbuwei.github.io/images/avatar.png</logo>
-    <icon>https://youbuwei.github.io/favicon.ico</icon>
+    <logo>https://doeot.io/images/avatar.png</logo>
+    <icon>https://doeot.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 有不为</rights>
     <entry>
         <title type="html"><![CDATA[员外家的烧饼]]></title>
-        <id>https://youbuwei.github.io/post/shaobing</id>
-        <link href="https://youbuwei.github.io/post/shaobing">
+        <id>https://doeot.io/post/shaobing</id>
+        <link href="https://doeot.io/post/shaobing">
         </link>
         <updated>2019-10-15T16:45:11.000Z</updated>
         <summary type="html"><![CDATA[<p>转载自<a href="https://www.zhihu.com/people/douzishushu">豆子</a>的专栏文章<a href="https://zhuanlan.zhihu.com/p/40247241">员外家的烧饼</a></p>
