@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youbuwei.github.io</id>
     <title>有不为</title>
-    <updated>2019-10-16T15:06:10.571Z</updated>
+    <updated>2019-10-16T15:20:54.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youbuwei.github.io"/>
     <link rel="self" href="https://youbuwei.github.io/atom.xml"/>
@@ -11,15 +11,17 @@
     <icon>https://youbuwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 有不为</rights>
     <entry>
-        <title type="html"><![CDATA[[转载]员外家的烧饼]]></title>
+        <title type="html"><![CDATA[员外家的烧饼]]></title>
         <id>https://youbuwei.github.io/post/shaobing</id>
         <link href="https://youbuwei.github.io/post/shaobing">
         </link>
         <updated>2019-10-15T16:45:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
+        <summary type="html"><![CDATA[<p>转载自<a href="https://www.zhihu.com/people/douzishushu">豆子</a>的专栏文章<a href="https://zhuanlan.zhihu.com/p/40247241https://zhuanlan.zhihu.com/p/40247241">员外家的烧饼</a></p>
+<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
 <p>员外家的烧饼是我爷爷打的，我爷爷打的烧饼我爹天天都吃，从吃第一口，我爹就知道这烧饼徒有虚名，不如矮个子家打的好吃。矮个子打的烧饼又香又脆，最好是趁热吃，皮如瓜干瓤如肉，就着菜，喝着汤，一头汗，满口香。我爷爷打的烧饼，则不同，涩口胀胃，味同嚼蜡。但他夹烧饼时熟练的手法，以及唤吆喝时中气十足的嗓门，显示出了他一代宗师的风范，人们管他叫“烧饼艺术家”。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
+        <content type="html"><![CDATA[<p>转载自<a href="https://www.zhihu.com/people/douzishushu">豆子</a>的专栏文章<a href="https://zhuanlan.zhihu.com/p/40247241https://zhuanlan.zhihu.com/p/40247241">员外家的烧饼</a></p>
+<p>员外家的烧饼不好吃，但每天依然都会排很长很长的队。过往本县的商贾行人，停下脚步，从这蛇形的队伍中，猜测出员外家烧饼的绝世美味，于是他们也排上了队。</p>
 <p>员外家的烧饼是我爷爷打的，我爷爷打的烧饼我爹天天都吃，从吃第一口，我爹就知道这烧饼徒有虚名，不如矮个子家打的好吃。矮个子打的烧饼又香又脆，最好是趁热吃，皮如瓜干瓤如肉，就着菜，喝着汤，一头汗，满口香。我爷爷打的烧饼，则不同，涩口胀胃，味同嚼蜡。但他夹烧饼时熟练的手法，以及唤吆喝时中气十足的嗓门，显示出了他一代宗师的风范，人们管他叫“烧饼艺术家”。</p>
 ]]></content>
     </entry>
