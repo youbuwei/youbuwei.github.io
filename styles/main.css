@@ -968,7 +968,11 @@ td {
 }
 
       .main {
-        max-width: 100%;
+        max-width: 1000px;
+      }
+    
+      .post-detail .post .post-content p {
+        font-size: 1em;
       }
     
       .post-container .post .post-title {
@@ -988,7 +992,8 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
-      .post-detail .post .post-content p{text-indent: 2em;}
+      .post-detail .post .post-content p{text-indent: 2em;text-align: justify;}
 .post-detail .post {padding: 0 0 24px 0;}
 .site-header{padding: 48px 0 0 0;}
+.main .main-content{padding:0 16px;}
     
