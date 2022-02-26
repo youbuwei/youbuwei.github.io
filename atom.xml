@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doeof.com</id>
     <title>DOEOF</title>
-    <updated>2021-01-09T04:25:15.302Z</updated>
+    <updated>2022-02-26T09:49:55.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doeof.com"/>
     <link rel="self" href="https://doeof.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://doeof.com/images/avatar.png</logo>
     <icon>https://doeof.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, DOEOF</rights>
+    <rights>All rights reserved 2022, DOEOF</rights>
     <entry>
         <title type="html"><![CDATA[西方帆船船种与历史简介]]></title>
-        <id>https://doeof.com/post/history-of-western-sailboat/</id>
-        <link href="https://doeof.com/post/history-of-western-sailboat/">
+        <id>https://doeof.com/history-of-western-sailboat/</id>
+        <link href="https://doeof.com/history-of-western-sailboat/">
         </link>
         <updated>2020-03-24T03:00:01.000Z</updated>
         <summary type="html"><![CDATA[<p>在大航海时代刚开始的15世纪，火药与枪炮等武器已经发明数百年，但却还未在陆战中占有一席之地。除了攻城外，需要十几匹马拖拉、几十名士兵来操作的笨重火炮，实在是很难在瞬息万变的战场上发挥作用。但是，船的载重能力远比马匹拖拉要强上几百倍，即使是普通的商船也能轻易载运十几门大炮。因此，大炮很早就被注意到而成为了帆船海战的主要武器。</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[员外家的烧饼]]></title>
-        <id>https://doeof.com/post/shaobing/</id>
-        <link href="https://doeof.com/post/shaobing/">
+        <id>https://doeof.com/shaobing/</id>
+        <link href="https://doeof.com/shaobing/">
         </link>
         <updated>2019-10-15T16:45:11.000Z</updated>
         <summary type="html"><![CDATA[<p>转载自<a href="https://www.zhihu.com/people/douzishushu">豆子</a>的专栏文章<a href="https://zhuanlan.zhihu.com/p/40247241">员外家的烧饼</a></p>
